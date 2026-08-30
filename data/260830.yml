@@ -1,0 +1,59 @@
+about:
+  description: Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
+  license: Apache-2.0
+  homepage: https://stoplight.io/open-source/elements/
+  head: 9834eb4
+  archived: false
+  latestVersion: v6.1.10
+  collectedAt: 2026-08-30T05:50:50Z
+timeline:
+  created: 2019-05-03
+  lastCommit: 2026-08-28
+  lastRelease: 2021-02-09
+popularity:
+  star: 2453
+  watcher: 18
+  fork: 259
+  release: 273
+  contributor: 119
+  pullRequest: 561
+  issue: 826
+language:
+  TypeScript: 1444940
+  JavaScript: 11215
+  CSS: 2287
+  Shell: 1792
+totalLine: 1460234
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 3
+    openPR: 9
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 16
+    openPR: 18
+    closedIssue: 0
+    openIssue: 2
+    commit: 16
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 48
+    openPR: 20
+    closedIssue: 0
+    openIssue: 4
+    commit: 60
+  last360d:
+    since: 2025-09-04
+    release: 0
+    mergedPR: 83
+    openPR: 25
+    closedIssue: 0
+    openIssue: 12
+    commit: 83
