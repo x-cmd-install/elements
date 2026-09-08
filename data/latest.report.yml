@@ -5,7 +5,7 @@ about:
   head: 802b9f4
   archived: false
   latestVersion: "v6.1.10"
-  collectedAt: 2026-09-08T02:59:41Z
+  collectedAt: 2026-09-08T05:45:29Z
 timeline:
   created: 2019-05-03
   lastCommit: 2026-09-03
@@ -82,7 +82,7 @@ total:
   commit: 1616
 ---
 path: /home/runner/.x-repo/github.com/stoplightio/elements
-collectedAt: 2026-09-08T02:59:47Z
+collectedAt: 2026-09-08T05:45:38Z
 loc:
   TypeScript:
     code: 27268
