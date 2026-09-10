@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.1.10"
   latestRelease: "v6.1.10"
   latestPrerelease: "v6.0.0-beta.96"
-  collectedAt: 2026-09-10T20:38:14Z
+  collectedAt: 2026-09-10T23:11:49Z
 timeline:
   created: 2019-05-03
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 1617
 ---
 path: /home/runner/.x-repo/github.com/stoplightio/elements
-collectedAt: 2026-09-10T20:38:23Z
+collectedAt: 2026-09-10T23:11:57Z
 loc:
   TypeScript:
     code: 27268
