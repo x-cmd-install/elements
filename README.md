@@ -26,7 +26,7 @@ Total: **51,940** lines of code across **352** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 5 | 11 | 0 | 0 | 6 |
-| last60d | 2026-07-17 | 0 | 6 | 18 | 0 | 0 | 6 |
-| 90d | 2026-06-17 | 0 | 13 | 22 | 0 | 1 | 12 |
-| last180d | 2026-03-19 | 0 | 50 | 24 | 0 | 4 | 63 |
-| 360d | 2025-09-20 | 0 | 86 | 29 | 0 | 12 | 85 |
-| last720d | 2024-09-25 | 0 | 110 | 54 | 3 | 41 | 115 |
+| 30d | 2026-08-17 | 0 | 5 | 11 | 0 | 0 | 6 |
+| last60d | 2026-07-18 | 0 | 6 | 18 | 0 | 0 | 6 |
+| 90d | 2026-06-18 | 0 | 12 | 22 | 0 | 1 | 12 |
+| last180d | 2026-03-20 | 0 | 48 | 24 | 0 | 4 | 63 |
+| 360d | 2025-09-21 | 0 | 86 | 29 | 0 | 12 | 85 |
+| last720d | 2024-09-26 | 0 | 110 | 53 | 3 | 41 | 113 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for elements lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:27:40Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:24:47Z._
