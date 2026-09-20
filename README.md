@@ -4,7 +4,7 @@
 
 Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 
-![elements](https://repo.x-cmd.io/elements.svg)
+[![x-cmd/install — elements Code Quality Monitoring Repo Card](https://repo.x-cmd.io/elements.svg)](https://x-cmd.com/install/elements)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,464 · **Forks**: 260 · **Open issues**: 826 · **Contributors**: 74
+- **Stars**: 2,463 · **Forks**: 259 · **Open issues**: 826 · **Contributors**: 74
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 11 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 0 | 6 | 17 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 0 | 11 | 21 | 0 | 1 | 12 |
-| last180d | 2026-03-22 | 0 | 48 | 24 | 0 | 4 | 63 |
-| 360d | 2025-09-23 | 0 | 86 | 29 | 0 | 12 | 85 |
-| last720d | 2024-09-28 | 0 | 108 | 53 | 3 | 41 | 113 |
+| 30d | 2026-08-21 | 0 | 5 | 11 | 0 | 0 | 6 |
+| last60d | 2026-07-22 | 0 | 6 | 16 | 0 | 0 | 6 |
+| 90d | 2026-06-22 | 0 | 11 | 20 | 0 | 1 | 11 |
+| last180d | 2026-03-24 | 0 | 48 | 24 | 0 | 4 | 63 |
+| 360d | 2025-09-25 | 0 | 84 | 29 | 0 | 12 | 84 |
+| last720d | 2024-09-30 | 0 | 108 | 53 | 3 | 41 | 113 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for elements lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:05:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:07:34Z._
