@@ -4,7 +4,7 @@
 
 Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 
-[![x-cmd/install — elements Code Quality Monitoring Repo Card](https://repo.x-cmd.io/elements.svg)](https://x-cmd.com/install/elements)
+[![x-cmd/install — elements Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/elements.svg)](https://x-cmd.com/install/elements)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **51,940** lines of code across **352** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,463 · **Forks**: 259 · **Open issues**: 826 · **Contributors**: 74
+- **Stars**: 2,464 · **Forks**: 259 · **Open issues**: 826 · **Contributors**: 74
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 11 | 0 | 0 | 6 |
-| last60d | 2026-07-24 | 0 | 6 | 16 | 0 | 0 | 6 |
-| 90d | 2026-06-24 | 0 | 11 | 20 | 0 | 1 | 11 |
-| last180d | 2026-03-26 | 0 | 40 | 24 | 0 | 4 | 63 |
-| 360d | 2025-09-27 | 0 | 84 | 29 | 0 | 12 | 84 |
-| last720d | 2024-10-02 | 0 | 108 | 53 | 3 | 41 | 111 |
+| 30d | 2026-08-24 | 0 | 5 | 11 | 0 | 0 | 6 |
+| last60d | 2026-07-25 | 0 | 6 | 15 | 0 | 0 | 6 |
+| 90d | 2026-06-25 | 0 | 11 | 20 | 0 | 1 | 11 |
+| last180d | 2026-03-27 | 0 | 39 | 24 | 0 | 4 | 63 |
+| 360d | 2025-09-28 | 0 | 84 | 29 | 0 | 12 | 84 |
+| last720d | 2024-10-03 | 0 | 108 | 53 | 3 | 41 | 111 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for elements lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:12:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:14:28Z._

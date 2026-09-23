@@ -4,7 +4,7 @@
 
 Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 
-[![x-cmd/install — elements Code Quality Monitoring Repo Card](https://repo.x-cmd.io/elements.svg?lang=zh)](https://x-cmd.com/install/elements)
+[![x-cmd/install — elements Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/elements.svg?lang=zh)](https://x-cmd.com/install/elements)
 
 ## 安装
 
@@ -26,7 +26,7 @@ x install elements
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
@@ -47,7 +47,7 @@ x install elements
 
 ## 流行度
 
-- **Star**: 2,463 · **Fork**: 259 · **开放 issue**: 826 · **贡献者**: 74
+- **Star**: 2,464 · **Fork**: 259 · **开放 issue**: 826 · **贡献者**: 74
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install elements
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 11 | 0 | 0 | 6 |
-| last60d | 2026-07-24 | 0 | 6 | 16 | 0 | 0 | 6 |
-| 90d | 2026-06-24 | 0 | 11 | 20 | 0 | 1 | 11 |
-| last180d | 2026-03-26 | 0 | 40 | 24 | 0 | 4 | 63 |
-| 360d | 2025-09-27 | 0 | 84 | 29 | 0 | 12 | 84 |
-| last720d | 2024-10-02 | 0 | 108 | 53 | 3 | 41 | 111 |
+| 30d | 2026-08-24 | 0 | 5 | 11 | 0 | 0 | 6 |
+| last60d | 2026-07-25 | 0 | 6 | 15 | 0 | 0 | 6 |
+| 90d | 2026-06-25 | 0 | 11 | 20 | 0 | 1 | 11 |
+| last180d | 2026-03-27 | 0 | 39 | 24 | 0 | 4 | 63 |
+| 360d | 2025-09-28 | 0 | 84 | 29 | 0 | 12 | 84 |
+| last720d | 2024-10-03 | 0 | 108 | 53 | 3 | 41 | 111 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ elements 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:12:16Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:14:29Z._
