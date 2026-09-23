@@ -252,4 +252,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":37801209,"author":{"login":"philsturgeon","id":67381,"node_id":"MDQ6VXNlcjY3Mzgx","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTM3ODAxMjA5","tag_name":"v6.1.10","target_commitish":"master","name":"v6.1.10","draft":false,"immutable":false,"prerelease":false,"created_at":"2021-02-09T13:47:46Z","updated_at":"2021-02-09T13:50:08Z","published_at":"2021-02-09T13:50:08Z","assets":[],"body":""}
