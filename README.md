@@ -26,7 +26,7 @@ Total: **51,940** lines of code across **352** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.1.10` (2021-02-09)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 273 · **Merged PRs**: 1532 · **Open PRs**: 40 · **Closed issues**: 611 · **Open issues**: 215 · **Commits**: 1635
+- **Releases**: 273 · **Merged PRs**: 1534 · **Open PRs**: 39 · **Closed issues**: 611 · **Open issues**: 215 · **Commits**: 1637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 13 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 20 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 0 | 26 | 4 | 0 | 1 | 0 |
-| last180d | 2026-04-03 | 0 | 53 | 6 | 0 | 4 | 0 |
-| 360d | 2025-10-05 | 0 | 99 | 12 | 0 | 12 | 0 |
-| last720d | 2024-10-10 | 0 | 124 | 33 | 3 | 40 | 127 |
+| 30d | 2026-09-01 | 0 | 15 | 2 | 0 | 0 | 21 |
+| last60d | 2026-08-02 | 0 | 22 | 2 | 0 | 0 | 26 |
+| 90d | 2026-07-03 | 0 | 28 | 3 | 0 | 1 | 31 |
+| last180d | 2026-04-04 | 0 | 54 | 5 | 0 | 4 | 83 |
+| 360d | 2025-10-06 | 0 | 101 | 11 | 0 | 12 | 102 |
+| last720d | 2024-10-11 | 0 | 126 | 32 | 3 | 40 | 128 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for elements lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:36:12Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:54:28Z._
